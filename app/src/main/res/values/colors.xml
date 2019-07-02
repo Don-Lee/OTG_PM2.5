@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg">#4fc3fc</color>
+    <color name="good">#D9B300</color>
+    <color name="mild_contamination">#FF5809</color>
+    <color name="serious_contamination">#AE57A4</color>
+    <color name="severe_contamination">#804040</color>
+    <color name="White">#ffffff</color>
+    <color name="Black4">#121415</color>
+    <color name="Black5">#242125</color>
+    <color name="Black6">#313641</color>
+    <color name="bg_dialog_normal">#f0ffffff</color>
+    <color name="bg_dialog_title_bar">#4cc05f</color>
+    <color name="bg_dialog_btn_normal">#33d3d3d3</color>
+    <color name="bg_dialog_btn_pressed">#d3d3d3d3</color>
+    <color name="bg_dialog_divider">#dcdcdc</color>
+    <color name="bg_dialog_btn_text">#808080</color>
+    <color name="bg_dialog_msg_text">#696969</color>
+    <color name="bg_tab_color">#fe9684</color>
+    <color name="Transparent">#00000000</color>
+    <color name="short_video_red">#ff4747</color>
+    <color name="Gray">#eeeeee</color>
+</resources>

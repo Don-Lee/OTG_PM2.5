@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EAWADA PM2.5检测仪</string>
+    <string name="pm25_unit">ug/m³</string>
+</resources>
